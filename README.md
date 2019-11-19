@@ -8,12 +8,12 @@ Deng Cai and Wai Lam.
 
 ## 0. Warning
 I haven't have enough time to clean the code and give detailed instructions (will do in the future!).
-Therefore, you may be need some *adventurous spirits* to use it. However, I am happy to answer if you have any questions.
+Therefore, you may need some *adventurous spirits* to use it. However, I am happy to answer questions if you have any.
 
 ## 1. Environment Setup
 
-The code has been tested on **Python 3.6**.
-All other dependencies are listed in [requirements.txt](requirements.txt).
+The code runs with Python 3.6.
+All dependencies are listed in [requirements.txt](requirements.txt).
 
 `pip install -r requirements.txt`
 
@@ -66,7 +66,8 @@ Data Preprocessing
 ***(Acknowledgements)*** A large body of the code for AMR preprocessing is from [sheng-z/stog](https://github.com/sheng-z/stog).
 
 ### 2.2 Syntactic Machine Translation
-You can get the preprocessed data from [here](https://drive.google.com/drive/folders/0BxGk3yrG1HHVMy1aYTNld3BIN2s). Thanks to original authors.
+You can get the preprocessed data from this [Google Dirve](https://drive.google.com/drive/folders/0BxGk3yrG1HHVMy1aYTNld3BIN2s). Thanks to original authors.
+Then you should change the data format to the same as `data/example.txt`
 
 ## From now on, for AMR-to-Text, you should go to the `generator` folder. For Syntactic Machine Translation, you should go to the `translator` folder.
 ## 3. Create Vocab & Data Format
@@ -88,14 +89,14 @@ sh train.sh # check it before use
 ```
 cd generator/tranlator
 sh work.sh # check it before use
+
+# postprocess
+sh test.sh (make sure --output is set)# check it before use
 ```
 
 ## 6. Evaluation
 
 ```
-cd generator/tranlator
-sh test.sh (make sure --output is set)# check it before use
-
 for bleu: use sh multi-bleu.perl (-lc)
 for chrf++: use python chrF++.py (c6+w2-F2)
 for meteor: use meteor-1.5 "java -Xmx2G -jar meteor-1.5.jar test reference -l en"
