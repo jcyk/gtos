@@ -1,0 +1,400 @@
+nn cc conj amod nsubj ROOT prep pobj
+5 1 1 5 6 0 6 7
+India and Japan prime ministers meet in Tokyo
+Die Premierminister Indiens und Japans tra@@ fen sich in To@@ k@@ io .
+poss possessive amod amod nsubj punct nn appos punct aux ROOT poss amod dobj punct nn appos punct prep pobj aux xcomp amod cc conj dobj punct prep poss amod amod amod pobj prep pcomp poss possessive dobj punct
+5 1 5 5 11 5 8 5 11 11 0 14 14 11 14 17 14 14 14 19 22 11 26 23 23 22 22 22 33 33 33 33 28 33 34 38 36 35 11
+India 's new prime minister , Narendra Modi , is meeting his Japanese counterpart , Shinzo Abe , in Tokyo to discuss economic and security ties , on his first major foreign visit since winning May 's election .
+Indiens neuer Premierminister N@@ ar@@ end@@ ra Mo@@ di trifft bei seinem ersten wichtigen Auslands@@ besu@@ ch seit seinem Wahl@@ sie@@ g im Mai seinen japanischen Amts@@ koll@@ egen S@@ hin@@ z@@ o Abe in To@@ ko , um wirtschaftliche und sicher@@ heits@@ politische Beziehungen zu be@@ sprechen .
+nn nsubj ROOT prep det nn pobj prep pobj aux xcomp amod dobj prep det advmod amod pobj prep det pobj punct
+2 3 0 3 7 7 4 7 8 11 3 13 11 13 18 17 18 14 18 21 19 3
+Mr Modi is on a five-day trip to Japan to strengthen economic ties with the third largest economy in the world .
+Her@@ r Mo@@ di befindet sich auf einer fünf@@ tä@@ g@@ igen Rei@@ se nach Japan , um die wirtschaftlichen Beziehungen mit der d@@ ritt@@ größten Wirtschafts@@ nation der Welt zu fest@@ igen .
+nsubj prep det pobj cop ROOT prep amod amod pobj punct
+6 1 4 2 6 0 6 10 10 7 6
+High on the agenda are plans for greater nuclear co-operation .
+Pläne für eine stärkere k@@ ern@@ techn@@ ische Zusammenarbeit stehen ganz oben auf der Tages@@ ordnung .
+nsubj aux advmod advmod ROOT prep det pobj prep amod pobj prep det num pobj punct
+5 5 5 5 0 5 8 6 8 11 9 11 15 15 12 5
+India is also reportedly hoping for a deal on defence collaboration between the two nations .
+Ber@@ ichten zufolge hoff@@ t Indien darüber hinaus auf einen Vertrag zur Verteidigungs@@ zusammen@@ arbeit zwischen den beiden Nationen .
+nn nsubj ROOT dobj prep amod nn nn pobj
+2 3 0 3 3 9 8 9 5
+Karratha police arrest 20-year-old after high speed motorcycle chase
+Polizei von Kar@@ ra@@ t@@ ha ver@@ haf@@ tet 20-@@ J@@ ähr@@ igen nach schneller Mot@@ or@@ ra@@ d@@ j@@ ag@@ d
+det nsubjpass aux auxpass ROOT mark nsubjpass auxpass advcl prep pobj prep det num pobj cc conj pobj aux xcomp dobj prep det pobj punct
+2 5 5 5 0 9 9 9 5 9 10 9 15 15 12 12 12 17 20 9 20 20 24 22 5
+A motorcycle has been seized after it was ridden at 125km/h in a 70km/h zone and through bushland to escape police in the Pilbara .
+Ein Mot@@ or@@ ra@@ d wurde besch@@ lag@@ nah@@ m@@ t , nachdem der Fahr@@ er es mit 1@@ 25 k@@ m / h in einer 70 k@@ m / h@@ -@@ Z@@ one und durch Bu@@ sch@@ land ge@@ fahren hatte , um der Polizei in Bil@@ b@@ ara zu ent@@ kommen .
+nn nsubj prep pobj prep pobj det nsubj ROOT aux xcomp prt det amod dobj advmod nsubj advcl dobj xcomp dobj mark nsubj advcl prep pcomp det nn pobj prep nn pobj punct
+2 9 2 3 4 5 8 9 0 11 9 11 15 15 11 18 18 11 18 18 20 24 24 18 24 25 29 29 26 29 32 30 9
+Traffic police on patrol in Karratha this morning tried to pull over a blue motorcycle when they spotted it reaching 125km/h as it pulled out of a service station on Bathgate Road .
+Ver@@ kehr@@ sp@@ ol@@ izi@@ sten in Kar@@ ra@@ t@@ ha versu@@ chten heute mor@@ gen , ein bl@@ au@@ es Mot@@ or@@ ra@@ d zu sto@@ ppen , nachdem sie es dabei beobach@@ tet hatten , wie es mit 1@@ 25 k@@ m / h eine T@@ ank@@ stelle auf der B@@ ath@@ da@@ te Ro@@ ad ver@@ ließ .
+nsubj ROOT det nsubj advmod dep aux xcomp cc conj prep pcomp nn pobj prep pcomp prep pobj punct partmod det nsubj aux xcomp dobj prep pobj punct
+2 0 4 6 6 2 8 6 6 6 10 11 14 12 10 15 16 17 16 16 22 24 24 20 24 25 26 2
+Police say the rider then failed to stop and continued on to Burgess Road before turning into bushland , causing the officers to lose sight of it .
+Die Polizei ber@@ ichtet , dass der Fahr@@ er die H@@ alt@@ es@@ ign@@ ale dann ignor@@ ierte und weiter auf der Bur@@ ge@@ ss Ro@@ ad fu@@ hr , bevor er in das Bu@@ sch@@ land ab@@ bo@@ g , wo die Beam@@ ten es aus den Augen verloren .
+det nsubjpass cc det conj partmod det dobj prep det pobj auxpass advmod ROOT prep det pobj prep nn pobj prep pobj punct
+2 14 2 5 2 5 8 6 8 11 9 14 14 0 14 17 15 17 20 18 20 21 14
+The motorcycle and a person matching the description of the rider was then spotted at a house on Walcott Way in Bulgarra .
+Das Mot@@ or@@ ra@@ d sowie eine Person , die der Besch@@ reibung des Fahr@@ ers entsp@@ ra@@ ch wurden später bei einem Haus im W@@ al@@ c@@ ot@@ t W@@ a@@ y in B@@ ul@@ gar@@ ra gesehen .
+nn nsubj aux ROOT det amod dobj prep pcomp aux xcomp cc amod conj punct
+2 4 4 0 7 7 4 4 8 11 9 11 14 11 4
+Karratha Police have charged a 20-year-old man with failing to stop and reckless driving .
+Die Polizei von Kar@@ ra@@ t@@ ha be@@ schuldig@@ t einen 20-@@ jährigen Mann der Nicht@@ be@@ achtung eines H@@ alt@@ es@@ ign@@ als sowie rück@@ sichts@@ losen Fahr@@ ens .
+nsubj cop ROOT aux xcomp prep nn nn pobj prep pobj num punct
+3 3 0 5 3 5 9 9 6 5 10 11 3
+He is due to appear in Karratha Magistrates Court on September 23 .
+Er soll am 2@@ 3@@ . September vor dem Amts@@ ger@@ icht in Kar@@ ra@@ t@@ ha erscheinen .
+det nsubjpass auxpass ROOT cc conj prep num pobj punct
+2 4 4 0 4 4 4 9 7 4
+The motorcycle was seized and impounded for three months .
+Das Mot@@ or@@ ra@@ d wurde sicher@@ gestellt und für drei Monate besch@@ lag@@ nah@@ m@@ t .
+nn nsubj ROOT prep nn cc conj nn pobj
+2 3 0 3 9 5 5 9 4
+George Webster accused of Nairn and Pitlochry hotel rapes
+George W@@ eb@@ ster wegen H@@ ot@@ el@@ ver@@ gewal@@ tig@@ ungen in Na@@ im und P@@ it@@ lo@@ ch@@ r@@ y angek@@ la@@ gt
+det nsubj ROOT aux xcomp dobj partmod prep pcomp dobj prep num pobj punct
+2 3 0 5 3 5 6 7 8 9 9 13 11 3
+A man is to stand trial accused of raping women at two hotels .
+Ein Mann steht wegen der Ver@@ gewal@@ tigung von Frauen in zwei H@@ ot@@ els vor Gericht .
+nn nsubj punct amod punct ROOT det dobj prep det pobj prep det nn pobj prep pobj punct
+2 6 2 2 2 0 8 6 6 11 9 11 15 15 12 15 16 6
+George Webster , 28 , faced the charges during a hearing at the High Court in Glasgow .
+George W@@ eb@@ ster , 2@@ 8 , wurde die Ank@@ lage bei einer An@@ hör@@ ung von dem Ober@@ sten Gericht in G@@ la@@ s@@ g@@ ow verl@@ esen .
+nsubjpass auxpass ROOT aux aux xcomp det dobj prep det poss possessive pobj prep pobj prep pobj prep pobj num punct num punct
+3 3 0 6 6 3 8 6 6 11 13 11 9 13 14 15 16 6 18 19 19 19 3
+He is alleged to have raped a woman at the Scotland 's Hotel in Pitlochry in Perthshire on June 7 , 2013 .
+Er wird be@@ schuldig@@ t , am 7@@ . Juni 2013 eine Frau im S@@ c@@ ot@@ land &apos; s H@@ ot@@ el in P@@ it@@ lo@@ ch@@ r@@ y in Per@@ th@@ s@@ h@@ ir@@ e ver@@ gewal@@ tigt zu haben .
+nsubjpass auxpass ROOT nsubj ccomp dobj mark nsubj cop punct advcl punct conj cc conj prep pcomp dobj punct punct
+3 3 0 5 3 5 11 11 11 11 5 11 11 11 11 15 16 17 3 3
+It is claimed Webster attacked her while she was `` unconscious , asleep and incapable of giving consent . ''
+Die Ank@@ lage lautet , dass W@@ eb@@ ster sie ang@@ riff , während sie &quot; bewus@@ st@@ los war , sch@@ lie@@ f , und kein Ein@@ verständ@@ nis sign@@ alisieren konnte . &quot;
+nsubjpass auxpass advmod ROOT prep pcomp det amod dobj prep det nn nn pobj prep pobj prep det pobj prep pobj num punct num punct
+4 4 4 0 4 5 9 9 6 6 14 14 14 10 14 15 6 19 17 6 20 21 21 21 4
+Webster is then charged with raping a second woman at the Golf View Hotel in Nairn in the Highlands on May 4 , 2014 .
+W@@ eb@@ ster wird darüber hinaus vor@@ geworfen , am 4@@ . Mai 2014 eine zweite Frau im Gol@@ f V@@ ie@@ w H@@ ot@@ el in Na@@ im im sch@@ ot@@ tischen Hoch@@ land ver@@ gewal@@ tigt zu haben .
+nn nn nsubj ROOT det nn dobj prep pobj num prep det nn pobj prep pobj punct
+3 3 4 0 7 7 4 7 8 9 4 14 14 11 14 15 4
+Judge Lady Rae set a trial date for November 17 at the High Court in Edinburgh .
+Rich@@ ter@@ in La@@ d@@ y Ra@@ e setzte den Verhand@@ l@@ ung@@ ster@@ m@@ in für den 17@@ . November am Ober@@ sten Gericht in E@@ din@@ bur@@ g@@ h an .
+ROOT prep det amod amod pobj mark nn nsubj cop nn ccomp
+0 1 6 6 6 2 12 9 12 12 12 6
+Reconnecting With the Very American Ideal That Labor Rights Are Human Rights
+Rück@@ be@@ sinn@@ ung auf das sehr amerikanische Ide@@ al der Arbeits@@ rechte als Menschenrechte
+nn nn nsubj cc nn conj aux ROOT dobj aux infmod nn dobj prep det amod pobj punct
+3 3 8 3 6 3 8 0 8 11 9 13 11 11 17 17 14 8
+Congressmen Keith Ellison and John Lewis have proposed legislation to protect union organizing as a civil right .
+Die Kongress@@ abge@@ ord@@ neten K@@ ei@@ t@@ h E@@ ll@@ is@@ on und John Le@@ wi@@ s haben einen Gesetzes@@ vor@@ schlag eingeb@@ racht , um die Organisation von Gewerkschaften als Bürger@@ recht zu etabl@@ ieren .
+punct advmod ccomp nsubj punct cc conj amod dobj punct punct ROOT nsubj punct det nn appos nsubj rcmod prep det nn nn nn pobj punct
+12 3 12 3 3 3 3 9 7 12 12 0 12 13 17 17 13 19 17 19 25 24 24 25 20 12
+`` As go unions , so go middle-class jobs , '' says Ellison , the Minnesota Democrat who serves as a Congressional Progressive Caucus co-chair .
+&quot; So wie Gewerkschaften sterben , sterben auch die Mittel@@ klass@@ e@@ j@@ ob@@ s , &quot; sagte E@@ ll@@ is@@ on , ein Demokra@@ t aus M@@ inn@@ e@@ so@@ ta und stell@@ ver@@ tret@@ ender Vorsitz@@ ender des Pro@@ gressiv@@ e C@@ au@@ c@@ us im Kongress .
+nsubj ROOT advmod nsubj cop advcl aux xcomp det nn nn dobj prep amod nn nn nn pobj punct
+2 0 6 6 6 2 8 6 12 11 12 8 8 15 16 18 18 13 2
+That 's why I 'm proud to introduce the Employee Empowerment Act with civil rights icon John Lewis .
+Daher stelle ich st@@ olz gemeinsam mit der Bürger@@ recht@@ si@@ kon@@ e John Le@@ wi@@ s das Mit@@ arbei@@ ter@@ er@@ mäch@@ tigungs@@ gesetz vor .
+det amod nsubj aux ROOT iobj det amod amod dobj prep pobj partmod dobj prep pcomp amod pobj prep dep punct amod amod pobj prep poss pobj
+3 3 5 5 0 5 10 10 10 5 10 11 10 13 14 15 18 16 18 22 22 24 24 19 18 27 25
+This ground-breaking legislation will give workers the same legal options for union organizing discrimination as for other forms of discrimination - stopping anti-union forces in their tracks
+Dieses bah@@ nb@@ rech@@ ende Gesetz gibt Arbei@@ tern die gleichen rechtlichen Möglichkeiten bei Disk@@ riminierung wegen der Organisation von Gewerkschaften wie bei anderen Formen der Disk@@ riminierung - und sto@@ pp@@ t so anti@@ ge@@ werk@@ schaf@@ tlich eing@@ estell@@ te Kräfte .
+ROOT det nn nn nn dobj aux xcomp nsubj nsubj rcmod dobj prep pcomp prep nsubj pcomp aux xcomp prep pobj prep det amod pobj punct cc aux conj amod cc conj dobj punct cop det amod cc conj xcomp punct
+0 6 6 5 6 1 8 1 40 11 9 11 12 13 14 17 15 19 17 19 20 19 25 25 22 19 19 29 19 33 30 30 29 40 40 40 40 37 37 8 1
+Amending the National Labor Relations Act to allow workers who face discrimination for engaging in union organizing to sue for justice in the civil courts - and to collect compensatory and punitive damages - is a sound and necessary initiative .
+Die Er@@ g@@ änz@@ ung des nationalen Arbeits@@ rechts@@ gesetz@@ es , um eine Möglichkeit für einer Disk@@ riminierung ausge@@ setzte Arbei@@ tern zur Organisation einer Gewerk@@ schafts@@ ver@@ tre@@ tung zu schaffen , um vor einem Zivil@@ ger@@ icht um Gerechtigkeit zu k@@ lagen - und um Scha@@ den@@ s@@ er@@ satz oder Straf@@ gel@@ der zu erhalten - ist eine sinn@@ volle und notwend@@ ige Initiative .
+cc nsubj prep pcomp neg det amod ROOT punct advmod advmod prep amod pobj punct
+8 8 8 3 8 8 8 0 8 11 12 8 14 12 8
+But it in certainly not a radical initiative - at least by American standards .
+Aber es ist mit Sicherheit keine radik@@ ale Initiative - je@@ den@@ falls nicht nach amerikanischen Standards .
+advmod punct det amod nsubj aux infmod dobj nsubj punct conj cc det conj prep poss pobj aux ccomp ROOT prep det pobj prep det advmod amod pobj punct
+20 20 5 5 20 7 5 19 19 9 9 9 14 9 14 17 15 19 7 0 20 23 21 23 28 27 28 24 20
+Indeed , the best way to understand what Ellison , Lewis and the cosponsors of their legislation are proposing is as a reconnection with a very American idea .
+Tatsächlich ist die beste Art und Weise zum Verständnis dessen , was E@@ ll@@ is@@ on , Le@@ wi@@ s und die weiteren Sp@@ ons@@ oren ihrer Gesetzes@@ vor@@ lage vor@@ schlagen , die Verbindung zurück zu einer sehr amerikanischen Idee .
+prep det pobj dobj nsubj aux rcmod prep amod pobj punct prep pobj punct appos cc conj prep det pobj punct nsubj advmod ROOT dobj prep det pobj aux xcomp punct conj cc conj nn dobj punct
+24 3 1 7 7 7 3 7 10 8 10 10 12 13 13 7 7 17 20 18 24 24 24 0 24 24 28 26 30 24 30 30 30 30 36 34 24
+Despite the battering that unions have taken in recent years - in Wisconsin , Michigan and states across the country - Americans once encouraged countries around the world to embrace , extend and respect labor rights .
+Trotz der Rück@@ schläge , denen die Gewerkschaften in den vergangenen Jahren ausgesetzt waren - in Wis@@ c@@ ons@@ in , Mich@@ ig@@ an und anderen Staaten im ganzen Land - haben Amerikaner einst Länder in aller Welt dazu ermu@@ tigt , Arbeits@@ rechte anzu@@ erkennen , auszu@@ weiten und einzu@@ halten .
+expl ROOT det nsubj punct prep det amod pobj prep pobj prep pobj punct advmod det nsubj rcmod dobj punct appos prep pobj punct conj prep det pobj cc det conj aux infmod prep det amod pobj punct
+2 0 4 2 2 2 9 9 6 9 10 11 12 9 18 17 18 9 18 19 19 21 22 19 19 25 28 26 19 31 19 33 31 33 37 37 34 2
+There was a time , within the living memory of millions of Americans , when this country championed democracy , freedom of speech , freedom of the press and the right to organize in the same breath .
+Es gab eine Zeit , an die sich Millionen von Amerikanern noch erinnern , als dieses Land Demokratie , Re@@ de@@ freiheit , Press@@ ef@@ rei@@ heit und das Verein@@ ig@@ ungs@@ recht in einem At@@ em@@ zug n@@ annte .
+advmod det nn nsubj advcl dobj prep nn nn pobj punct nn nn nsubj cc poss conj ROOT det dobj aux xcomp det dobj partmod aux xcomp mark nn poss possessive amod nsubjpass aux auxpass ccomp prep pobj punct
+5 4 4 5 18 5 5 10 10 7 18 14 14 18 14 17 14 0 20 18 22 18 24 22 24 27 25 36 30 33 30 33 36 36 36 27 36 37 18
+When the United States occupied Japan after World War II , General Douglas MacArthur and his aides encouraged the country to adopt a constitution designed to assure that Hideki Tojo 's militarized autocracy would be replaced with democracy .
+Als die Vereinigten Staaten nach dem Zweiten Weltkrieg Japan be@@ setzte , ermu@@ tigten General Do@@ ug@@ la@@ s Ma@@ c Ar@@ th@@ ur und sein St@@ ab das Land dazu , eine Verfassung zu verabschie@@ den , die sicher@@ stellen soll@@ e , dass die mil@@ itar@@ is@@ ierte Aut@@ okra@@ tie H@@ ed@@ k@@ i To@@ j@@ os durch Demokratie ersetzt würde .
+advmod ccomp mark nsubj cc poss conj ccomp det dobj aux infmod prep pcomp det amod dobj punct nsubj ROOT dobj nsubj advmod rcmod mark punct det nsubjpass prep pobj aux infmod cc aux conj cc conj advmod auxpass ccomp punct punct
+2 20 8 8 4 7 4 2 10 8 12 10 12 13 17 17 14 20 20 0 20 24 24 21 40 40 28 40 28 29 32 28 32 35 32 35 35 40 40 24 20 20
+Fully aware that workers and their unions had a role to play in shaping the new Japan , they included language that explicitly recognized that `` the right of workers to organize and to bargain and act collectively is guaranteed . ''
+In voll@@ em Bewusstsein dessen , dass die Arbeiter und ihre Gewerkschaften bei der Schaffung eines neuen Japan eine Rolle einnahmen , ver@@ wend@@ eten sie eine Sprache , die exp@@ lizi@@ t an@@ erk@@ annte , dass &quot; die Rechte der Arbeiter auf Verein@@ igung und gemein@@ sames Verhand@@ eln und Handeln garan@@ tiert sind . &quot;
+advmod det nn nsubj advcl dobj prep nn nn pobj punct nn nn nn nsubj cc poss conj ROOT det dobj aux xcomp det dobj nsubj aux rcmod mark nn poss possessive nsubjpass auxpass ccomp prep amod pobj punct
+5 4 4 5 19 5 5 10 10 7 19 15 15 15 19 15 18 15 0 21 19 23 19 25 23 28 28 25 35 31 33 31 35 35 28 35 38 36 19
+When the United States occupied Germany after World War II , General Dwight David Eisenhower and his aides urged the Germans to write a constitution that would assure that Adolf Hitler 's fascism was replaced with muscular democracy .
+Als die Vereinigten Staaten nach dem Zweiten Weltkrieg Deutschland be@@ setzen , dräng@@ ten General D@@ w@@ ig@@ ht Davi@@ d Eis@@ en@@ ho@@ wer und sein St@@ ab die Deutschen , eine Verfassung zu schreiben , die dafür sorgen würde , dass der Fa@@ sch@@ ismus A@@ d@@ ol@@ f Hit@@ ler@@ s durch eine starke Demokratie ersetzt würde .
+partmod mark nsubj aux ccomp aux xcomp cc conj poss nsubj ccomp prep det amod pobj punct det nsubj ROOT det dobj nsubj advmod rcmod punct punct det nsubjpass aux infmod dobj aux infmod cc conj amod cc conj dobj aux auxpass ccomp prep det pobj cc conj det pobj cc conj punct
+20 5 5 5 1 7 5 7 7 11 12 9 12 16 16 13 20 19 20 0 22 20 25 25 22 25 25 29 43 31 29 31 34 32 34 34 40 37 37 34 43 43 25 43 46 44 44 44 50 48 50 50 20
+Recognizing that workers would need to organize and make their voices heard in the new nation , the Germans included a provision that explicitly declared : `` The right to form associations to safeguard and improve working and economic conditions shall be guaranteed to every individual and to every occupation or profession .
+In Anerkennung der Tatsache , dass die Arbeiter sich würden organis@@ ieren müssen , und ihre Stimme in der neuen Nation er@@ heben sollten , fü@@ gten die Deutschen eine Kl@@ aus@@ el ein , die exp@@ lizi@@ t auss@@ ag@@ te : &quot; Das Recht , Verein@@ igungen zu grü@@ nden , um die Arbeits@@ - und wirtschaftlichen Bedingungen zu sichern und zu verbessern wird jedem Einzel@@ nen und jedem Ber@@ u@@ f oder Ge@@ wer@@ be garan@@ tiert .
+nsubj nsubj rcmod cc conj aux xcomp det dobj aux cop ROOT cc conj punct nsubj partmod prep det pobj aux cop parataxis punct
+12 3 1 3 3 7 3 9 7 12 12 0 12 12 12 23 16 17 20 18 23 23 12 12
+Agreements that restrict or seek to impair this right shall be null and void ; measures directed to this end shall be unlawful .
+Vereinbar@@ ungen , die dieses Recht ein@@ schrän@@ ken oder darauf abziel@@ en , es zu sch@@ m@@ äl@@ ern sind n@@ ul@@ l und nich@@ tig ; darauf abziel@@ ende Maßnahmen sind ung@@ es@@ etz@@ lich .
+advmod amod nn nn nn nsubj advcl det nn dobj prep nn pobj punct nsubj rcmod det nn dobj prep nn pobj nsubjpass aux prep pobj auxpass ROOT prep det nn pobj mark det amod nsubj punct conj cc det conj advcl det dobj mark punct nsubj ccomp det dobj aux infmod cc aux conj nn dobj prep det pobj prep poss pobj punct punct
+7 4 4 6 6 7 28 10 10 7 10 13 11 10 16 10 19 19 16 19 22 20 28 28 28 25 28 0 28 32 32 29 42 36 36 42 36 36 36 41 36 28 44 42 48 48 48 44 50 48 52 50 52 55 52 57 55 57 60 58 60 63 61 28 28
+When former First Lady Eleanor Roosevelt chaired the International Commission on Human Rights , which drafted the Universal Declaration of Human Rights that would in 1948 be adopted by the United Nations as a global covenant , Roosevelt and the drafters included a guarantee that `` everyone has the right to form and to join trade unions for the protection of his interests . ''
+Als die frühere Fir@@ st La@@ d@@ y Ele@@ an@@ or Ro@@ os@@ ev@@ elt den Vor@@ s@@ itz über die Internationale Menschenrechts@@ komm@@ ission in@@ neh@@ at@@ te , von der die Allgem@@ eine Erklärung der Menschenrechte ent@@ wor@@ fen wurde , wie sie 194@@ 8 von den Vereinten Nationen als weltwei@@ tes Abkommen übernommen wurde , fü@@ gten Ro@@ os@@ ev@@ elt und die anderen Verfass@@ er eine Gar@@ ant@@ ie ein , dass &quot; jeder das Recht hat , Gewerkschaften zum Schutz@@ e seiner Interessen zu bilden oder ihnen beizu@@ treten . &quot;
+prep pobj punct nsubj ROOT det amod dobj mark nn nsubj cop amod ccomp punct
+5 1 5 5 0 8 8 5 14 11 14 14 14 8 5
+For generations , Americans accepted the basic premise that labor rights are human rights .
+Seit Generationen akzeptieren Amerikaner die Grund@@ prä@@ mis@@ se , dass Arbeits@@ rechte Menschenrechte sind .
+advmod det nsubj advcl amod dobj prep advmod aux pcomp amod cc conj dobj punct nsubj ROOT mark det nsubj aux rcmod det nn dobj punct cc aux conj det nn nsubj ccomp prep amod pobj prep det amod pobj prep pobj cc nn conj punct ccomp aux auxpass xcomp punct
+4 3 4 17 6 4 4 10 10 7 14 11 11 10 17 17 0 47 20 47 22 20 25 25 22 22 22 29 22 32 32 33 29 33 36 34 33 40 40 37 40 41 42 45 42 47 17 50 50 47 17
+When this country counseled other countries on how to forge civil and democratic societies , Americans explained that the right to organize a trade union - and to have that trade union engage in collective bargaining as an equal partner with corporations and government agencies - had to be protected .
+Als dieses Land anderen Ländern dabei ber@@ ie@@ t , wie man zivil@@ e und demokratische Gesellschaften formen könne , erklär@@ ten Amerikaner , dass das Recht auf die Gründung einer Gewerk@@ schaft - und darauf , dass diese Gewerk@@ schaft dann an Koll@@ ek@@ tiv@@ verhandlungen als gleich@@ wer@@ tiger Partner mit Unternehmen und Regierungs@@ stellen teil@@ nehmen dür@@ fe - geschütz@@ t werden müsse .
+advmod punct prep det pobj prep pobj prep pobj punct nsubj cop ROOT punct advmod punct aux xcomp prep det amod pobj mark amod nsubj aux ccomp det dobj aux infmod cc aux conj poss nsubj ccomp prep det amod cc conj pobj punct
+13 13 13 5 3 5 6 7 8 13 13 13 0 13 13 13 18 13 18 22 22 19 27 25 27 27 22 29 27 31 29 31 34 31 36 37 34 37 43 43 40 40 38 13
+Now , with those rights under assault in America , it is wise , indeed , to recommit to the American ideal that working people must have a right to organize and to make their voices heard in a free and open society .
+Nachdem diese Rechte in Amerika unter Be@@ schuss ger@@ ieten ist es tatsächlich sehr weise , sich das amerikanische Ide@@ al wieder vor Augen zu führen , dem@@ zufolge die arbei@@ t@@ ende Bevölkerung das Recht haben muss , sich zu ver@@ einigen und sich in einer freien und offenen Gesellschaft Geh@@ ö@@ r zu verschaffen .
+mark det nn nn nn nn nsubj ROOT num npadvmod advmod punct
+8 7 7 7 7 7 8 0 10 11 8 8
+As the Reverend Martin Luther King Jr. said fifty years ago :
+Wie P@@ ast@@ or Mar@@ tin L@@ ut@@ her K@@ ing J@@ r@@ . vor fünf@@ zig Jahren sagte :
+nsubj cop det amod ROOT punct
+5 5 5 5 0 5
+History is a great teacher .
+Die Geschichte ist ein groß@@ ar@@ tiger Lehr@@ mei@@ ster .
+advmod nsubj ROOT mark det nn nsubj aux neg ccomp det dobj prep det pobj cc conj dobj punct
+3 3 0 10 7 7 10 10 10 3 12 10 12 15 13 10 10 17 3
+Now everyone knows that the labor movement did not diminish the strength of the nation but enlarged it .
+Jetzt wissen alle , dass die Arbei@@ ter@@ bewegung die Stärke der Nation nicht ein@@ schrän@@ kte , sondern sie vergröß@@ erte .
+prep pcomp det nn dobj prep pobj punct nsubj advmod ROOT det dobj prep pobj cc conj det amod dobj prep pobj prep pobj prep pobj punct
+11 1 5 5 2 5 6 11 11 11 0 13 11 13 14 11 11 20 20 17 17 21 22 23 24 25 11
+By raising the living standards of millions , labor miraculously created a market for industry and lifted the whole nation to undreamed of levels of production .
+Durch die An@@ hebung des Lebensstand@@ ards von Millionen Menschen hat Arbeit auf w@@ under@@ same Weise einen Markt für die Industrie geschaffen und die gesamte Nation auf un@@ vorstell@@ bare Produktions@@ n@@ ive@@ aus angeh@@ oben .
+nsubj nsubj rcmod dobj ROOT det amod dobj punct cc nsubj conj dobj punct
+5 3 1 3 0 8 8 5 5 5 12 5 12 5
+Those who attack labor forget these simple truths , but history remembers them .
+Diejenigen , die die Arbeit ang@@ reifen , vergessen diese einfachen Wahr@@ heiten , aber die Geschichte be@@ wahr@@ t sie .
+nsubj ROOT punct mark aux advcl punct
+2 0 2 6 6 2 2
+History remembers , as should we .
+Die Geschichte erinnert sich , und das sollten wir auch tun .
+det amod nsubj prep nn pobj prep amod pobj punct cc det conj prep amod nn pobj aux infmod dobj prep nn pobj punct cop advmod ROOT punct
+3 3 27 3 6 4 3 9 7 3 3 13 3 13 16 17 14 19 13 19 20 23 21 3 27 27 0 27
+The formal recognition of labor rights as human rights - and the extension of civil rights protections to prevent discrimination against labor organizing - is long overdue .
+Die form@@ elle Anerkennung der Arbeits@@ rechte als Menschenrechte - und die Erweiterung des Schutz@@ es der Bürger@@ rechte als Schutz gegen Disk@@ riminierung bei der Schaffung von Arbeit@@ nehmer@@ ver@@ tre@@ tungen - ist längst über@@ fällig .
+nn nsubj cc nn conj aux ROOT dobj nsubj aux advmod rcmod dobj cc conj amod det dobj prep pobj punct
+2 7 2 5 2 7 0 7 12 12 12 8 12 12 12 18 18 15 18 19 7
+Keith Ellison and John Lewis are renewing ideals that have historically enlarged America and made real the promise of democracy .
+K@@ ei@@ t@@ h E@@ ll@@ is@@ on und John Le@@ wi@@ s erneu@@ ern die Ide@@ ale , die Amerika in der Vergangenheit groß gemacht haben und das Versprechen von Demokratie ein@@ lö@@ sten .
+nsubj advmod ROOT dobj nsubj aux rcmod det nn nn dobj
+3 3 0 3 7 7 4 11 11 11 7
+Judge temporarily blocks law that could close all Louisiana abortion clinics
+Richter sto@@ pp@@ t zeit@@ wei@@ l@@ ig Gesetz , dass alle Ab@@ t@@ reib@@ ungs@@ kl@@ in@@ iken in Lo@@ u@@ is@@ i@@ an@@ a zur Schließ@@ ung zwingen könnte
+det nn amod nsubj prep pobj advmod ROOT dobj prep det nn pobj dobj nsubj rcmod aux advmod aux ccomp det num nn dobj prep det pobj punct
+4 4 4 8 4 5 8 0 8 9 13 13 10 16 16 13 20 20 20 16 24 24 24 20 20 27 25 8
+A U.S. federal judge on Sunday temporarily blocked enforcement of a Louisiana law that advocates say would likely have closed all five abortion clinics in the state .
+Ein US-@@ Bundes@@ rich@@ ter sto@@ pp@@ te am Son@@ n@@ ta@@ g vor@@ läufig die Umsetzung eines Gesetz@@ es in Lo@@ u@@ is@@ i@@ an@@ a , von dem An@@ wäl@@ te sagen , dass es vermutlich zur Schließ@@ ung aller fünf Ab@@ t@@ reib@@ ungs@@ kl@@ in@@ iken des Staates geführt hätte .
+det nsubj punct dep prep pobj prep nn nn nn pobj prep pobj cc conj aux xcomp dobj tmod num punct aux ROOT dobj nsubj rcmod dobj aux xcomp dobj dep dobj prep det pobj prep num pobj prep poss pobj punct
+2 23 2 2 4 5 4 9 11 11 7 4 12 4 4 17 15 17 17 19 2 23 0 23 26 24 26 29 23 29 30 31 31 35 33 35 38 36 38 41 39 23
+The measure , signed into law by Louisiana Governor Bobby Jindal in June and due to take effect Sept. 1 , would require doctors who perform abortions to have patient admitting privileges at a hospital within 30 miles of their practice .
+Diese Maß@@ nahme , die von B@@ ob@@ b@@ y J@@ ind@@ al , Gouver@@ neu@@ r von Lo@@ u@@ is@@ i@@ an@@ a , im Juni zum Gesetz er@@ hoben wurde und am 1. Sept@@ . in Kraft treten soll , würde Ärz@@ te , die Ab@@ t@@ reib@@ ungen durch@@ führen , dazu zwingen , ein Pati@@ ent@@ en@@ auf@@ nah@@ mer@@ echt bei einem Kranken@@ haus innerhalb eines Ra@@ di@@ us von 30 Mei@@ len um ihre Praxis zu er@@ wer@@ ben .
+advmod punct det poss possessive nsubj ROOT mark prep det pobj partmod nsubj aux ccomp aux xcomp amod dobj mark advcl amod dobj punct
+7 7 4 6 4 7 0 15 15 11 9 11 15 15 7 17 15 19 17 21 15 23 21 7
+However , the judge 's ruling means that for the time being doctors can continue to perform legal abortions while seeking such privileges .
+Die Entscheidung des Rich@@ ters bedeutet jedoch , dass die Ärz@@ te vor@@ läufig weiterhin leg@@ al Ab@@ t@@ reib@@ ungen durch@@ führen können , während sie ein solches Recht be@@ an@@ tragen .
+punct nsubjpass aux auxpass ccomp aux xcomp advmod mark advcl poss dobj aux infmod dobj punct punct nn nn nn nsubj ROOT prep det pobj punct
+22 5 5 5 22 7 5 7 10 7 12 10 14 12 14 22 22 19 21 21 22 0 22 25 23 22
+`` Plaintiffs will be allowed to operate lawfully while continuing their efforts to obtain privileges , '' Federal Judge John deGravelles wrote in the decision .
+&quot; Die K@@ lä@@ ger können gesetz@@ es@@ kon@@ form weiter@@ arbeiten , während sie sich um die Er@@ lang@@ ung dieser Rechte bemü@@ hen , &quot; schrieb Bundes@@ rich@@ ter John de@@ Gra@@ v@@ elles in seinem Ur@@ teil .
+det nsubjpass aux auxpass ROOT prep det pobj mark det nsubj aux advcl det advmod amod dobj prep det pobj punct
+2 5 5 5 0 5 8 6 13 11 13 13 5 17 16 17 13 17 20 18 5
+A hearing will be scheduled within a month for the judge to make a more permanent ruling on the law .
+In@@ ner@@ halb eines Mon@@ ats wird eine An@@ hör@@ ung für den Richter anges@@ etzt , um für das Gesetz eine dauer@@ haf@@ tere Entscheidung herbeizuführen .
+nn nn nsubj ROOT det dobj punct det appos prep det pobj prep pobj prep amod pobj punct partmod nsubj aux ccomp iobj amod dobj aux infmod nn dobj punct
+2 3 4 0 6 4 6 9 6 9 12 10 12 13 14 17 15 4 4 22 22 19 22 25 22 27 25 29 27 4
+Abortion rights activists applauded the decision , the latest in a string of rulings against similar measures , saying it would give doctors more time to seek hospital privileges .
+Ab@@ t@@ reib@@ ungs@@ befürwor@@ ter begrü@@ ß@@ ten die Entscheidung , die jüngste in einer Reihe von Ur@@ teilen gegen ähnliche Maßnahmen und sa@@ gten , dass Ärz@@ te so mehr Zeit gew@@ än@@ nen , um Kranken@@ haus@@ ein@@ weis@@ ungs@@ rechte zu erlangen .
+punct poss possessive amod nsubj nn dep cop ccomp prep det amod pobj nsubj rcmod aux xcomp dobj prep poss pobj cc conj punct punct ROOT nn nsubj punct appos cc amod conj prep det pobj prep nn pobj punct nsubj rcmod aux xcomp det dobj prep pobj prep pobj prep det poss possessive num pobj punct
+26 5 2 5 9 7 5 9 26 9 13 13 10 15 13 17 15 17 17 21 19 21 21 26 26 0 28 26 28 28 30 33 30 30 36 34 36 39 37 36 42 36 44 42 46 44 44 47 48 49 50 53 56 53 56 51 26
+`` Today 's ruling ensures Louisiana women are safe from an underhanded law that seeks to strip them of their health and rights , '' said Nancy Northup , president and chief executive of the Center for Reproductive Rights , which sued to block the law on behalf of three of the state 's five clinics .
+&quot; Die heutige Entscheidung bedeutet , dass die Frauen in Lo@@ u@@ is@@ i@@ an@@ a einem hinter@@ häl@@ tigen Gesetz ent@@ gehen , das ihnen ihre Gesundheit und ihre Rechte nehmen will , &quot; sagte N@@ anc@@ y Nor@@ th@@ up , Präsiden@@ tin und Vorsitz@@ ende des Z@@ ent@@ ru@@ ms für Re@@ produk@@ tions@@ rechte , das im Namen von drei der fünf K@@ lin@@ iken des Staates ge@@ kla@@ gt hatte , um das Gesetz aufzu@@ halten .
+nsubj cop neg advmod ROOT mark det nsubj ccomp prep pobj prep det num pobj nsubj cop neg rcmod prep det pobj cc aux advmod conj prep pcomp dobj punct
+5 5 5 5 0 9 8 9 5 9 10 9 15 15 12 19 19 19 15 19 22 20 19 26 26 19 26 27 28 5
+It was not immediately clear whether the ruling applied to doctors from the two clinics who were not plaintiffs in the suit and have also applied for admitting privileges .
+Es war nicht unmittelbar klar , ob sich das Ur@@ teil auch auf die Ärz@@ te aus den zwei K@@ lin@@ iken er@@ stre@@ ck@@ te , die sich der K@@ lage nicht ange@@ schlossen und ebenfalls Ein@@ weis@@ ungs@@ rechte be@@ an@@ tra@@ gt hatten .
+nsubj ROOT prep num pobj nsubj aux rcmod amod dobj punct prep nsubj advmod pcomp amod amod dobj prep pobj cc conj punct
+2 0 2 5 3 8 8 5 10 8 8 8 15 15 12 18 18 15 18 19 20 20 2
+Louisiana is among 11 states that have passed similar laws , with courts recently ruling unconstitutional such measures in Alabama and Mississippi .
+Lo@@ u@@ is@@ i@@ an@@ a ist einer von 11 Staaten , die ähnliche Gesetze er@@ lassen haben , wobei Ger@@ ichte kürzlich solche Maßnahmen in A@@ la@@ ba@@ ma und Miss@@ issi@@ pp@@ i für nicht ver@@ fass@@ ungs@@ gemäß erklärt haben .
+amod nsubjpass prep det nn pobj nsubj aux aux rcmod advmod amod dobj prep det pobj auxpass ROOT prep det amod pobj prep pobj punct
+2 18 2 6 6 3 10 10 10 6 12 13 10 10 16 14 18 0 18 22 22 19 18 23 18
+Key parts of a Texas law that would have shuttered most remaining clinics in that state were blocked by a federal judge on Friday .
+Schlüssel@@ stellen eines Gesetz@@ es in Tex@@ as , das die meisten der im Staat verb@@ lie@@ benen K@@ lin@@ iken zur Schließ@@ ung gezwungen hätte , wurden von einem Bundes@@ rich@@ ter am Frei@@ ta@@ g gest@@ o@@ pp@@ t .
+nn nn nsubj punct advmod prep det nn pobj prep pobj cc conj cc det nn nn conj punct ROOT csubj nn dobj ccomp advmod amod dobj prep pobj punct
+2 3 20 20 20 5 9 9 6 9 10 11 11 9 18 18 18 9 20 0 24 23 21 20 26 27 24 24 28 20
+Abortion rights campaigners , along with the American College of Obstetricians and Gynecologists and the American Medical Association , say admitting privileges laws impose medically unnecessary requirements on doctors .
+Ab@@ t@@ reib@@ ungs@@ befürwor@@ ter und das A@@ mer@@ ic@@ an C@@ oll@@ eg@@ e of O@@ stre@@ tri@@ c@@ i@@ ans and G@@ y@@ ne@@ c@@ olog@@ ist@@ s sowie die A@@ mer@@ ic@@ an Medi@@ c@@ al Ass@@ oc@@ i@@ ation sagen über@@ ein@@ stimm@@ end , dass Ein@@ weis@@ ungs@@ rechte von Ärz@@ ten un@@ nö@@ tige Ein@@ schränkungen verlangen .
+amod nsubj aux ROOT mark det nsubj ccomp aux xcomp poss possessive dobj punct mark nsubj aux advmod advcl poss dobj prep pcomp dobj punct
+2 4 4 0 8 7 8 4 10 8 13 11 10 8 19 19 19 19 8 21 19 21 22 23 4
+Anti-abortion advocates have countered that the measures aim to protect women 's health , though some have also lauded their effect of shuttering clinics .
+Ab@@ t@@ reib@@ ungs@@ geg@@ ner halten dem entgegen , dass die Maßnahmen dem Schutz der Gesundheit der Frauen dienen , obwohl einige auch die Auswirkungen einer Schließ@@ ung von K@@ lin@@ iken begrü@@ ß@@ ten .
+advmod num nsubj nsubj rcmod dobj prep pobj ccomp dobj partmod dobj punct det nsubj prep nn pobj ROOT punct
+3 3 9 5 3 5 6 7 19 9 10 11 19 15 19 15 18 16 0 19
+Only one doctor who performs abortions in Louisiana has hospital admitting privileges , the Center for Reproductive Rights said .
+Nur ein Ar@@ zt , der in Lo@@ u@@ is@@ i@@ an@@ a Ab@@ t@@ reib@@ ungen durch@@ führt , verfügt über Pati@@ ent@@ ein@@ ein@@ weis@@ er@@ echte , teil@@ te das Zentrum für Re@@ produk@@ tions@@ rechte mit .
+mark det amod nsubjpass prep det pobj auxpass advcl aux xcomp xcomp dobj punct det nsubj punct amod prep poss pobj punct aux ccomp xcomp prt det dobj punct det nsubj ROOT punct
+9 4 4 9 4 7 5 9 24 11 9 11 12 24 16 24 16 16 18 21 19 16 24 32 24 25 28 25 32 31 32 0 32
+If all other doctors in the state are forced to stop performing abortions , that doctor , fearful for his safety , would stop carrying out the procedure , the group said .
+Wenn alle übrigen Ärz@@ te im Staat dazu gezwungen werden , keine Ab@@ t@@ reib@@ ungen mehr durchzu@@ führen , würde dieser Ar@@ zt aus Angst um seine Sicherheit die Oper@@ ation nicht mehr durch@@ führen , sagte die Gruppe .
+prep pcomp prep det pobj punct nn nsubj ROOT nsubj aux neg ccomp dobj partmod dobj mark poss nsubj prep pcomp dobj cop advcl punct
+9 1 2 5 3 9 8 9 0 13 13 13 9 13 14 15 24 19 24 19 20 21 24 13 9
+In arguing against the ruling , Louisiana officials said they would not punish doctors performing abortions while their applications for admitting privileges were pending .
+Bei ihrer Argum@@ ent@@ ation gegen das Ur@@ teil sa@@ gten Vertreter des Staates Lo@@ u@@ is@@ i@@ an@@ a , dass sie keine Ärz@@ te wegen der Durch@@ führung von Ab@@ t@@ reib@@ ungen bestra@@ fen würden , während deren An@@ träge auf Pati@@ ent@@ en@@ ein@@ weis@@ er@@ echte noch an@@ häng@@ ig wären .
+amod nsubj cc conj aux infmod amod dobj ROOT amod nsubj ccomp dobj prep amod pobj
+2 9 2 2 6 4 8 6 0 11 12 9 12 12 16 14
+Delayed diagnosis and inability to access best treatment mean ovarian cancer kills more in rural areas
+Ver@@ zö@@ ger@@ te Diagno@@ sen und mangel@@ nder Zugang zu den besten Behand@@ lungs@@ möglichkeiten führen zu höheren Todes@@ raten durch E@@ ier@@ sto@@ ck@@ kre@@ bs in ländlichen Gebieten .
+nn nsubj cc poss conj appos aux ROOT det nn dobj prep poss amod pobj nsubj rcmod prep amod pobj prep pobj punct
+2 8 2 5 2 5 8 0 11 11 8 8 15 15 12 17 15 17 20 18 17 21 8
+Angelina Jolie and her brother James have posted a video tribute to their late mother who died of Ovarian cancer in 2007 .
+Angel@@ in@@ a J@@ ol@@ ie und ihr Bru@@ der Ja@@ mes haben eine Vi@@ de@@ oh@@ omm@@ age für ihre Mut@@ ter on@@ lin@@ e gestellt , die 2007 an E@@ ier@@ sto@@ ck@@ kre@@ bs ver@@ star@@ b .
+nsubj partmod prep amod pobj ROOT prep amod pobj prep pcomp prep amod pobj prep poss nn pobj punct
+6 1 2 5 3 0 6 9 7 9 10 11 14 12 9 18 18 15 6
+Women living in rural Australia are at higher risk of dying from ovarian cancer than their city counterparts .
+Für Frauen in den ländlichen Gebieten Austr@@ ali@@ ens besteht ein höher@@ es Risiko , an E@@ ier@@ sto@@ ck@@ kre@@ bs zu sterben , als für Frauen in Städten .
+nsubj ROOT amod nsubj prep mwe quantmod num amod pobj ccomp prep amod pobj prep pobj punct xcomp quantmod num nn nsubj ccomp prep num pobj prep pobj punct
+2 0 4 11 4 7 8 10 10 5 2 11 14 12 11 15 11 11 20 22 22 23 18 23 26 24 26 27 2
+Researchers analysed medical records of more than 1100 Australian women diagnosed with ovarian cancer in 2005 , finding just 35 per cent lived for five years after diagnosis .
+For@@ scher analy@@ s@@ ierten die medizin@@ ischen Daten von mehr als 1@@ 100 Austr@@ al@@ ier@@ innen , bei denen 2005 E@@ ier@@ sto@@ ck@@ kre@@ bs fest@@ gestellt wurde , und stellten fest , dass lediglich 25 Prozent fünf Jahre nach der Diagno@@ se noch am Leben waren .
+amod nn nn nsubj punct prep det nn nn nn nn pobj punct ROOT nsubj partmod prep amod cc conj pobj prep det pobj cop quantmod npadvmod prep pobj advmod ccomp aux xcomp prep det pobj prep pobj prep amod pobj punct
+2 4 4 14 4 4 12 12 12 12 12 6 4 0 31 15 16 21 18 18 17 21 24 22 31 27 30 27 28 31 14 33 31 33 36 34 31 37 38 41 39 14
+Lead researcher Susan Jordan , of the QIMR Berghofer Medical Research Institute , said those living in regional and remote areas of the state were about 20 per cent more likely to die during the study than those in urban areas .
+Die Forschungs@@ lei@@ ter@@ in S@@ us@@ an J@@ or@@ dan vom Q@@ I@@ M@@ R Ber@@ g@@ ho@@ fer Medi@@ c@@ al Res@@ e@@ ar@@ ch Institu@@ te sagte , dass für diejenigen , die in ländlichen und ab@@ geleg@@ enen Regionen des Staates leb@@ ten , das Ster@@ b@@ lich@@ keits@@ risiko während der Studie um 20 Prozent höher lag als für diejenigen in Stad@@ t@@ gebie@@ ten .
+nn ROOT punct amod nsubj aux amod dep punct amod appos
+2 0 2 5 8 8 8 2 8 11 8
+SMALL STUDY : New drugs may slow lung , ovarian cancer
+K@@ L@@ E@@ I@@ N@@ E ST@@ U@@ D@@ I@@ E : Neu@@ e Ar@@ z@@ nei@@ mittel könnten L@@ ungen@@ - und E@@ ier@@ sto@@ ck@@ kre@@ bs verlang@@ samen
+det nsubj ROOT det poss possessive amod dobj prep num pobj punct
+2 3 0 5 8 5 8 3 3 11 9 3
+The researchers tracked the women 's medical journeys across seven years .
+Die For@@ scher unter@@ su@@ chten die medizin@@ ische Versorg@@ ung der Frauen über sieben Jahre .
+nn nsubj ROOT det poss possessive nsubj prep det pobj prep pobj punct amod nn appos punct partmod amod dobj cc amod conj advmod ccomp prep nn pobj punct
+2 3 0 5 7 5 25 7 10 8 10 11 12 16 16 12 12 12 20 18 20 23 20 25 3 25 28 26 3
+Dr Jordan said a woman 's age at the time of diagnosis , ovarian cancer type , having existing illnesses and socio-economic status also impacted on survival chances .
+D@@ r@@ . J@@ or@@ dan sagte , dass das Alter einer Frau bei der Diagno@@ se , der T@@ yp des E@@ ier@@ sto@@ ck@@ kre@@ bs@@ es , bestehende Vor@@ erk@@ rank@@ ungen sowie der soziale und wirtschaftliche Status ebenfalls die Über@@ le@@ ben@@ sch@@ an@@ cen beeinflu@@ s@@ sten .
+amod nsubj cc conj poss nsubj cop advmod rcmod prep det pobj prep pobj ROOT det amod nn dobj punct
+2 15 2 2 6 9 9 9 4 9 12 10 12 13 0 19 19 19 15 15
+Older women and those whose cancer was more advanced at the time of diagnosis had the poorest survival rates .
+Für äl@@ tere Frauen und diejenigen , deren Kre@@ bs zum Diagno@@ se@@ zeit@@ punkt bereits weiter fort@@ gesch@@ ritten war , lag die Über@@ lebens@@ rate am niedr@@ igsten .
+nsubj partmod prep amod cc conj pobj prep det pobj cop quantmod npadvmod prep pobj advmod ROOT aux xcomp prep det pobj prep pobj prep amod pobj punct
+17 1 2 7 4 4 3 7 10 8 17 13 16 13 14 17 0 19 17 19 22 20 17 23 24 27 25 17
+Those living in regional and remote areas of the state were about 20 per cent more likely to die during the study than those in urban areas .
+Für diejenigen , die in ländlichen und ab@@ geleg@@ enen Regionen des Staates leb@@ ten , lag das Ster@@ b@@ lich@@ keits@@ risiko während der Studie um 20 Prozent höher als für diejenigen in Stad@@ t@@ gebie@@ ten .
+mark det nsubjpass auxpass neg advcl aux xcomp advmod nsubj partmod prep det pobj cop advmod advcl aux xcomp prep amod pobj punct nn nsubj ROOT amod nsubj cc conj aux infmod amod dobj aux cop ccomp punct
+6 3 6 6 6 26 8 6 17 17 10 11 14 12 17 17 8 19 17 19 22 20 26 25 26 0 28 37 28 28 32 30 34 32 37 37 26 26
+Although the study was not designed to determine why women living outside the city were more likely to die from ovarian cancer , Dr Jordan suggested delayed diagnosis and inability to access best treatment might be factors .
+Obwohl die Studie nicht unter@@ su@@ chte , warum außerhalb der Stadt le@@ bende Frauen mit höherer Wahrscheinlichkeit an E@@ ier@@ sto@@ ck@@ kre@@ bs star@@ ben , vermu@@ tet D@@ r@@ . J@@ or@@ dan eine ver@@ spä@@ tete Diagno@@ se und den mangel@@ nden Zugang zu den besten Behand@@ lungs@@ zentr@@ en als mögliche Faktoren dafür .
+punct det nsubjpass auxpass advmod ccomp prep amod nn pobj cc nsubjpass auxpass advmod conj prep amod pobj punct punct nsubj ROOT punct
+22 3 6 6 6 22 6 10 10 7 6 15 15 15 6 15 18 16 22 22 22 0 22
+`` This disease is best treated by gynaecological oncology surgeons and they 're mostly based in major cities , '' she said .
+&quot; Diese Krankheit wird am besten von g@@ y@@ n@@ ä@@ k@@ ologischen O@@ n@@ kol@@ ogen behandelt , und diese sind mei@@ stens in größeren Städten zu finden , &quot; sagte sie .
+prep pcomp nn dobj aux xcomp det dobj prep pobj punct nsubj ROOT amod dobj punct nn appos aux xcomp nsubj aux xcomp dobj advmod prep pobj cc nsubj aux infmod dobj prep pobj advmod prep poss pobj aux conj punct
+13 1 4 2 6 2 8 6 8 9 13 13 0 15 13 15 18 15 20 13 23 23 20 23 23 25 26 23 40 31 29 31 31 33 34 35 38 36 40 23 13
+Despite improving tele-medicine services to lessen the tyranny of distance , she suggested more fly-in , fly-out services to allow specialists to treat women closer to home and programs to support people in treatment away from their communities could help .
+Trotz der Verbesserung der tel@@ em@@ e@@ dizin@@ ischen Dien@@ ste , um den Ent@@ fern@@ ungen etwas entgegenzu@@ setzen , schlu@@ g sie als mögliche Ab@@ hilfe eine Ver@@ stärk@@ ung des Ser@@ vi@@ ce von eing@@ ef@@ lo@@ gen@@ en Ärz@@ ten vor , um Spe@@ zi@@ alisten die Möglichkeit zu geben , Frauen d@@ ich@@ ter an deren Wohn@@ ort zu vers@@ orgen , sowie Behand@@ l@@ ungsprogra@@ mme für Menschen außerhalb ihrer Region .
+nn nsubj ROOT advmod prep amod pobj punct det nsubj ccomp amod nsubj prep pobj prep amod pobj cop ccomp punct xcomp det dobj prep amod nn cc conj pobj punct
+2 3 0 3 4 7 5 3 10 11 3 13 20 13 14 15 18 16 20 11 20 20 24 22 24 30 30 27 27 25 3
+Dr Jordan said regardless of geographical status , the study found long-term survival among women with ovarian cancer was poor , reinforcing the need for better treatment and prevention strategies .
+D@@ r@@ . J@@ or@@ dan sagte , dass die Studie unabhängig vom ge@@ ograph@@ ischen Status eine schlechte Lang@@ zeit@@ über@@ lebens@@ rate bei Frauen im E@@ ier@@ sto@@ ck@@ kre@@ bs erg@@ ab und unterst@@ rich den Bedarf an bess@@ erer Behandlung und Vor@@ sor@@ gest@@ rateg@@ ien .
+det nsubjpass punct partmod prep det nn nn pobj prep nn pobj punct aux auxpass ROOT tmod prep det nn pobj prep pobj punct
+2 16 2 2 4 9 9 9 5 4 12 10 2 16 16 0 16 16 21 21 18 21 22 16
+The research , funded by the Rio Tinto Ride to Conquer cancer , will be published today in the Medical Journal of Australia .
+Die von R@@ io T@@ in@@ to R@@ ide to C@@ on@@ qu@@ er C@@ anc@@ er finanz@@ ierte Studie wird heute im Medi@@ c@@ al Journ@@ al of Austr@@ ali@@ a veröffentlicht .
+prep pobj num punct prep num pobj prep pobj punct amod nn nn nn nn nsubjpass auxpass ROOT mark nsubj ccomp det amod dobj prep amod pobj punct
+18 1 2 18 18 7 5 7 8 18 14 13 14 16 16 18 18 0 21 21 18 24 24 21 24 27 25 18
+In March 2012 , at 33 years of age , young Gold Coast mum Elisha Neave was told that she had an aggressive form of ovarian cancer .
+Im März 2013 er@@ fu@@ hr El@@ is@@ ha Ne@@ a@@ v@@ e , eine junge Mut@@ ter von 3@@ 3 Jahren von der Gold@@ kü@@ ste , dass sie eine aggressiv@@ e Form von E@@ ier@@ sto@@ ck@@ kre@@ bs hatte .
+nn nn nsubj ROOT prep pobj
+2 3 4 0 4 5
+Garden centres rue fall in homeowners
+G@@ art@@ enz@@ entr@@ en be@@ dauern sink@@ ende Haus@@ besitz@@ er@@ zahlen
+det nsubj punct partmod prep det amod pobj prep det pobj prep pobj partmod prep pobj punct aux ROOT prep nn nsubj pcomp prt prep dep quantmod pobj prep pobj det dobj advmod poss possessive amod nsubj rcmod det punct amod nn nn dobj punct punct prep pcomp det poss possessive pobj punct nsubjpass auxpass rcmod prep det nn pobj punct
+2 19 2 2 4 8 8 5 8 11 9 11 12 13 14 15 2 19 0 19 22 23 20 23 23 28 28 25 28 29 32 23 38 37 34 37 38 32 44 44 44 43 44 38 19 19 19 47 50 52 50 48 52 56 56 52 56 60 60 57 19
+The drop , coupled with a particular decline in the number of homeowners aged under 35 , could result in garden centres losing out on tens of millions of pounds a year when today 's young consumers reach the `` core gardening age group , '' according to the HTA 's study , which was reported by the Financial Times .
+Der Rückgang zusammen mit einem verstärk@@ ten S@@ in@@ ken der Anzahl der Haus@@ besitz@@ er unter 35 Jahren könnte dazu führen , dass G@@ art@@ enz@@ entr@@ en zehn@@ tausende Pf@@ und pro Jahr verlieren , wenn die heutigen jungen Konsum@@ enten nach einer Studie der H@@ T@@ A , wie in der Fin@@ anc@@ i@@ al T@@ im@@ es ber@@ ichtet , die &quot; Kern@@ alter@@ s@@ gruppe für Gar@@ ten@@ produk@@ te &quot; erreichen .
+prep pcomp det pobj punct nn nn nsubj ROOT det dobj prep num nn pobj prep det pobj dobj nsubj prep poss amod pobj rcmod prep poss pobj punct
+9 1 4 2 9 8 8 9 0 11 9 11 15 15 12 15 18 16 25 25 20 24 24 21 18 25 28 26 9
+According to the report , people renting properties spend an average of 55 per cent of the amount that those with their own homes spend on their gardens .
+Der Bericht be@@ sagt , dass M@@ ie@@ ter durchschnittlich 5@@ 5 Prozent des Be@@ trag@@ es ausgeben , die Menschen mit Eigenhei@@ m für ihren Gar@@ ten ausgeben .
+nsubj ROOT det dobj prep pobj partmod prep advmod amod pobj prep det pobj punct det appos prep pcomp prep amod pobj prep pobj cc conj nn dobj prep amod pobj partmod det dobj punct nsubj cop rcmod det amod number dep prep pobj det dep punct
+2 0 4 2 4 5 6 7 10 11 8 7 14 12 4 17 4 17 18 19 22 20 22 23 19 19 28 26 26 31 29 31 34 32 34 38 38 34 42 42 42 38 38 43 46 38 2
+It cited the rise in people living in highly urbanised areas with no gardens , the popularity of paving over front gardens for parking and shrinking garden size as other factors threatening the industry , which is worth an estimated £5 billion in sales each year .
+Der Anstieg von Menschen , die in hoch urb@@ anis@@ ierten Ge@@ genden ohne G@@ är@@ ten leben , das bel@@ ieb@@ te Verfahren , Vor@@ g@@ är@@ ten zu Par@@ k@@ z@@ we@@ cken zu a@@ sp@@ hal@@ tieren und die sink@@ ende Gar@@ te@@ ng@@ r@@ öß@@ e sind weitere Faktoren , die die Bran@@ che bedro@@ hen , in der ge@@ schätzt 5 Milliarden £ jährlich im Verk@@ auf umgesetzt werden .
+nn nsubj punct advmod nn nsubj aux rcmod prep pobj prep pobj prep pobj prep pobj prep num pobj punct ROOT poss possessive amod dobj prep pobj prep nn pobj punct
+2 21 2 8 6 8 8 2 8 9 10 11 9 13 8 15 8 19 17 21 0 25 22 25 21 25 26 25 30 28 21
+Greater London , where home ownership has fallen from 61 per cent to 43 per cent in six years , has Britain 's lowest spend per household on gardening products .
+Im Groß@@ raum London , in dem über einen Zeitraum von 6 Jahren der Anteil an Haus@@ eig@@ ent@@ ü@@ m@@ ern von 6@@ 1 auf 4@@ 3 Prozent gefallen ist , werden die gering@@ sten Ausgaben für Gar@@ ten@@ produk@@ te pro Haushalt ver@@ mel@@ det .
+det nn cc conj nn nsubj ROOT mark csubj dobj cc det conj prep nn pobj aux neg ccomp nsubj aux neg ccomp dobj punct
+6 6 2 2 6 7 0 19 19 9 10 13 10 13 16 14 19 19 7 23 23 23 19 23 7
+The HTA and Royal Horticultural Society said that renting property or a lack of garden space did not mean people could not grow plants .
+Die H@@ T@@ A und die Ro@@ y@@ al Hor@@ ti@@ c@@ ultur@@ al So@@ c@@ iet@@ y weisen darauf hin , dass Woh@@ nen zur M@@ ie@@ te oder kleine G@@ är@@ ten nicht bedeuten , dass die Menschen keine P@@ fl@@ anzen ziehen können .
+nn nsubj punct amod amod appos prep det pobj punct ROOT punct punct nn nsubj punct prep pobj punct cop advmod ccomp prep pobj nsubj aux rcmod poss dobj advmod nsubj advcl punct punct
+2 11 2 6 6 2 6 9 7 2 0 11 11 15 22 22 22 17 22 22 22 11 22 23 27 27 24 29 27 32 32 27 11 11
+Guy Barter , chief horticultural adviser to the RHS , said : `` Container gardening , for example , is especially popular with renters who can move their plants when they relocate . ''
+Gu@@ y Bar@@ ter , Che@@ f@@ gar@@ ten@@ ber@@ ater für die R@@ H@@ S sagte : &quot; C@@ on@@ ta@@ in@@ er-@@ G@@ är@@ t@@ nern ist beispielsweise bei M@@ ie@@ tern sehr belie@@ bt , weil sie ihre P@@ fl@@ anzen bei einem Um@@ zug mit@@ nehmen können . &quot;
+det nn nsubj ROOT det dobj prep pobj cc conj prep det nn amod poss possessive nn pobj punct prep det pobj prep amod nn pobj cc amod conj prep det amod pobj prep pobj punct
+3 3 4 0 6 4 6 7 8 8 6 15 15 15 18 15 18 11 6 4 22 20 22 26 26 23 26 29 26 29 33 33 30 30 34 4
+The HTA report identified the period between 1997 and 2005 as the garden retail sector 's 'golden age '' as a result of increased home ownership and economic prosperity from the late 1980s to mid-1990s .
+Der H@@ T@@ A-@@ Bericht i@@ denti@@ fiz@@ ierte den Zeitraum zwischen 1997 und 2005 als das &quot; g@@ ol@@ dene Zeitalter &quot; des Gar@@ ten@@ einzel@@ hand@@ els aufgrund stei@@ gender Haus@@ eig@@ ent@@ ü@@ mer@@ zahlen und wirtschaftlichen Wohl@@ stands von den späten 1980er bis zur Mitte der 9@@ 0er Jahre .
+nsubj advmod ROOT det amod dobj det tmod mwe prep amod pobj prep amod pobj prep pobj cc conj amod dep punct
+3 3 0 6 6 3 8 3 10 3 12 10 12 15 13 15 16 17 17 21 17 3
+It also predicted an improved market this year due to better weather following unfavourable conditions in March and April last year .
+Er progno@@ stiz@@ ierte für dieses Jahr außerdem eine verbess@@ erte Mark@@ ts@@ ituation wegen des besseren W@@ et@@ ters nach un@@ freund@@ lichen W@@ et@@ ter@@ bedingungen im März und April letzten Jahres .
+prep pobj punct det nn nsubj partmod prep amod pobj punct nn conj punct cc det amod conj punct nn appos punct ROOT punct
+23 1 23 6 6 23 6 7 10 8 10 13 10 10 10 18 18 10 18 21 18 18 0 23
+In Pakistan , the protest movement led by political opponent , Imran Khan , and the spiritual leader , Tahirul Qadri , continues .
+Die vom Opposi@@ tion@@ sp@@ oliti@@ ker I@@ m@@ ran K@@ ha@@ n und dem G@@ eist@@ lichen T@@ ah@@ i@@ ru@@ l Q@@ ad@@ ri ange@@ führte Prote@@ st@@ bewegung in Pakistan geht weiter .
+prep det nn pobj prep pobj punct quantmod num nsubj ROOT det nn nn dobj punct appos punct
+11 4 4 1 4 5 11 9 10 11 0 15 15 15 11 15 15 11
+In the capital city of Islamabad , around 1000 demonstrators stormed the government-run television station , PTV .
+In der Haupt@@ stadt Islam@@ ab@@ ad haben rund 1@@ 000 Demonst@@ ranten den staatlichen Fernseh@@ s@@ ender P@@ T@@ V gest@@ ür@@ m@@ t .
+advmod punct nn nsubj punct nn appos punct ROOT mark nsubj aux cop ccomp aux xcomp det dobj advmod prep pcomp det pobj punct
+9 9 4 9 4 7 4 9 0 14 14 14 14 9 16 14 18 16 16 19 20 23 21 9
+However , information minister , Pervaiz Rashid , said that soldiers had been able to force the protesters back out of the building .
+Informations@@ minister Per@@ va@@ iz R@@ as@@ hi@@ d sagte , Soldaten hätten die Prote@@ st@@ ierer aber wieder aus P@@ T@@ V@@ -@@ Geb@@ äu@@ de drängen können .
+det nn nsubj ROOT xcomp prep quantmod num pobj punct cc aux advmod conj aux xcomp advmod punct
+3 3 4 0 4 5 8 9 6 4 4 14 14 4 16 14 16 4
+The TV station stopped broadcasting for approximately 40 minutes , but has since begun to broadcast again .
+Der S@@ ender stellte seinen Bet@@ rieb für rund 40 Min@@ u@@ ten ein , s@@ endet inzwischen aber wieder .
+prep det amod pobj punct quantmod num nsubj ROOT aux xcomp det amod dobj prep nn nn nn pobj punct
+9 4 4 1 9 7 8 9 0 11 9 14 14 11 14 17 19 19 15 9
+At the same time , around 3000 demonstrators attempted to reach the official residency of Prime Minister Nawaz Sharif .
+Gleichzeitig versu@@ chten rund 3@@ 000 Demonst@@ ranten , zur Re@@ si@@ den@@ z von Premierminister Na@@ wa@@ z Shar@@ i@@ f zu gelangen .
+quantmod num npadvmod advmod punct nsubj ROOT prep nn nn pobj punct partmod prep pobj cc conj punct
+2 3 4 7 7 7 0 7 10 11 8 11 11 13 14 15 15 7
+Approximately one kilometre away , they clashed with security security services , armed with sticks and stones .
+R@@ und einen Kil@@ om@@ eter entfernt davon lie@@ fer@@ ten sie sich mit St@@ ö@@ cken und St@@ einen aus@@ ger@@ üst@@ et Zusammen@@ stöß@@ e mit Sicherheits@@ kräften .
+det nsubj ROOT amod dobj punct
+2 3 0 5 3 3
+The police used tear gas .
+Die Polizei setzte T@@ rän@@ eng@@ as ein .
+det nsubj ROOT poss possessive dobj punct dobj nsubj rcmod punct
+2 3 0 6 4 3 6 10 10 6 3
+The demonstrators demanded Sharif 's resignation , which he refused .
+Die Demonst@@ ranten forder@@ ten Shar@@ i@@ fs Rück@@ tritt , dieser l@@ ehnt das aber ab .
+det nn nsubj ROOT prep det amod pobj prep det pobj punct prep pobj cc conj pcomp prep pobj punct punct
+3 3 4 0 4 8 8 5 8 11 9 13 11 13 13 13 16 17 18 4 4
+The Pakistan Army called for a political solution to the conflict `` without delay and without resorting to violence . ''
+Die Armee des Landes ma@@ hn@@ t der@@ weil zu einer politischen Lösung des Konflikts , &quot; ohne Zeit zu verschw@@ enden und ohne Gewalt anzu@@ wenden &quot; .
+prep det pobj prep poss pobj prep nn pobj punct det nsubj ROOT punct punct det nsubjpass auxpass ccomp prep poss pobj prep pcomp dobj prep det pobj punct punct
+13 3 1 3 6 4 3 9 7 13 12 13 0 13 13 17 19 19 13 19 22 20 22 23 24 25 28 26 13 13
+Following a meeting at its headquarters on Sunday evening , the military announced : `` The Army remains committed to its task of ensuring security for the State '' .
+Nach einer Sitz@@ ung im Haupt@@ qu@@ ar@@ ti@@ er am Son@@ n@@ t@@ ag@@ a@@ bend teil@@ te das Militär mit : &quot; Die Armee bleibt ihrer Rolle verpflichtet , die Sicherheit des Staates zu gewährleisten &quot; .
+det nsubj ROOT det amod dobj prep pobj cc aux conj dobj prep pobj amod dobj prep det pobj punct
+2 3 0 6 6 3 6 7 3 11 3 11 11 13 16 11 11 19 17 3
+The military plays an important role in Pakistan and has taken power by force several times in the past .
+Das Militär spielt in Pakistan eine wichtige Rolle und hat bereits häuf@@ iger ge@@ pu@@ tsch@@ t .
+det nn nsubj punct nn appos punct ROOT nn nn dobj prep pcomp det amod dobj punct nsubj rcmod dobj prep pobj amod tmod punct
+3 3 8 3 6 3 3 0 10 11 8 8 12 16 16 13 16 19 16 19 19 21 24 19 8
+The opposition politician , Imran Khan , accuses Prime Minister Sharif of rigging the parliamentary elections , which took place in May last year .
+Der Opposi@@ tion@@ sp@@ oliti@@ ker I@@ m@@ ran K@@ ha@@ n wirft Pre@@ mi@@ er Shar@@ i@@ f vor , bei der Parlaments@@ wahl im Mai vergangenen Jahres betro@@ gen zu haben .

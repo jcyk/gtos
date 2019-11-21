@@ -2,7 +2,7 @@
 
 Code for our AAAI2020 paper,
 
-Graph Transformer for Graph-to-Sequence Learning.
+Graph Transformer for Graph-to-Sequence Learning. [[preprint]](https://arxiv.org/pdf/1911.07470.pdf)
 
 Deng Cai and Wai Lam.
 
@@ -18,7 +18,13 @@ All dependencies are listed in [requirements.txt](requirements.txt).
 `pip install -r requirements.txt`
 
 ## 2. Data Preparation
-### 2.1 AMR-to-Text
+### 2.1 Syntactic Machine Translation
+
+You can get the preprocessed data from this [Google Dirve](https://drive.google.com/drive/folders/0BxGk3yrG1HHVMy1aYTNld3BIN2s) (thanks to original authors).
+Then you should change the data format to the same as `translate_data/example.txt` using `translate_data/get_data.sh(check it before use)`
+
+### 2.2 AMR-to-Text
+
 Download Artifacts:
 ```bash
 ./scripts/download_artifacts.sh
@@ -64,10 +70,6 @@ Data Preprocessing
 ./scripts/preprocess_2.0.sh
 ```
 ***(Acknowledgements)*** A large body of the code for AMR preprocessing is from [sheng-z/stog](https://github.com/sheng-z/stog).
-
-### 2.2 Syntactic Machine Translation
-You can get the preprocessed data from this [Google Dirve](https://drive.google.com/drive/folders/0BxGk3yrG1HHVMy1aYTNld3BIN2s). Thanks to original authors.
-Then you should change the data format to the same as `data/example.txt`
 
 ## From now on, for AMR-to-Text, you should go to the `generator` folder. For Syntactic Machine Translation, you should go to the `translator` folder.
 ## 3. Create Vocab & Data Format
