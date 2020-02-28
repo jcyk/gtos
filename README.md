@@ -11,13 +11,13 @@ Deng Cai and Wai Lam.
 The code is tested with Python 3.6. All dependencies are listed in [requirements.txt](requirements.txt).
 
 ## 2. Data Preprocessing
-The instructions for Syntax-based Machine Translation are given in the [translator_data](./translate_data) folder.
+The instructions for Syntax-based Machine Translation are given in the [translator_data](./translator_data) folder.
 
 The instructions for AMR-to-Text Generation are given in the [generator_data](./generator_data) folder.
 
 ---
 
-**Step 3-6 should be conducted in the `generator` folder for AMR-to-Text Generation, and the `translator` folder for Syntax-based Machine Translation**
+**Step 3-6 should be conducted in the `generator` folder for AMR-to-Text Generation, and the `translator` folder for Syntax-based Machine Translation respectively.**
 
 ## 3. Vocab & Data Preparation
 
