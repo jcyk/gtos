@@ -114,10 +114,11 @@ dmypy.json
 .pyre/
 *.DS_Store
 /data/
-/stanford-corenlp-full-2018-10-05/
+
 /literature/
 generator/check/
 generator/meteor-1.5/*
 translator/check/
 *.ipynb
 *.pdf
+generator_data/stanford-corenlp-full-2018-10-05/
