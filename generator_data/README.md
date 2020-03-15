@@ -1,11 +1,6 @@
 
 
-## 2. Data Preparation for AMR-to-Text Generation
-1. Download Artifacts:
-
-```bash
-./scripts/download_artifacts.sh
-```
+## 2. Data Preprocessing for AMR-to-Text Generation
 
 Assuming that you're working on AMR 2.0 ([LDC2017T10](https://catalog.ldc.upenn.edu/LDC2017T10)), unzip the corpus to `data/AMR/LDC2017T10`, and make sure it has the following structure:
 
@@ -23,6 +18,11 @@ data/AMR/LDC2017T10
 │   ├── PropBank-unification-notes.txt
 │   └── README.txt
 └── index.html
+```
+1. Download Artifacts:
+
+```bash
+./scripts/download_artifacts.sh
 ```
 
 2. Prepare training/dev/test data:
