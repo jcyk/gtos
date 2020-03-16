@@ -18,4 +18,4 @@ de
 ├── test.txt
 └── train.txt
 ```
-where newstest2015* and newstest2016* store tranlation references for dev.txt and test.txt respectively.
+where newstest2015* and newstest2016* store translation references for dev.txt and test.txt respectively (for evaluation).
