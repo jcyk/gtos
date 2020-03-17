@@ -51,7 +51,7 @@ def parse_config():
     parser.add_argument('--unk_rate', type=float)
 
     # IO
-    parser.add_argument('--epochs', type=int)
+    parser.add_argument('--total_train_steps', type=int)
     parser.add_argument('--train_data', type=str)
     parser.add_argument('--dev_data', type=str)
     parser.add_argument('--train_batch_size', type=int)
@@ -148,7 +148,7 @@ def main(args, local_rank):
 
     model.train()
     epoch = 0
-    while True:
+    while batches_acm < args.total_train_steps:
         batch = queue.get()
         if isinstance(batch, str):
             epoch += 1

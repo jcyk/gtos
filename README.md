@@ -17,7 +17,7 @@ The instructions for AMR-to-Text Generation are given in the [generator_data](./
 
 ---
 
-**Step 3-6 should be conducted in the `generator` folder for AMR-to-Text Generation, and the `translator` folder for Syntax-based Machine Translation respectively.**
+**Step 3-6 should be conducted in the `generator` folder for AMR-to-Text Generation, and the `translator` folder for Syntax-based Machine Translation respectively.** The default settings in this repo should reproduce the results in our paper.
 
 ## 3. Vocab & Data Preparation
 

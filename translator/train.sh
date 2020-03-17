@@ -25,7 +25,7 @@ python3 train.py --token_vocab ${dataset}/token_vocab\
                 --inference_layers 3\
                 --dropout 0.2\
                 --unk_rate 0.33\
-                --epochs 1000\
+                --total_train_steps 55555\
                 --train_batch_size 88888\
                 --dev_batch_size 44444 \
                 --lr 1e-3 \
